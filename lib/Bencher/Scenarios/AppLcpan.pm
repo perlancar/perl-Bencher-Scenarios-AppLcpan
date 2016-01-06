@@ -1,4 +1,4 @@
-package Bencher::Scenarios::App::Lcpan;
+package Bencher::Scenarios::AppLcpan;
 
 # DATE
 # VERSION
