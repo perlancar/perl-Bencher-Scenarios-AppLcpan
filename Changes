@@ -1,4 +1,4 @@
-0.04    2017-01-25 (PERLANCAR)
+0.04    2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,14 +7,14 @@
           type=x_benchmarks.
 
 
-0.03    2016-01-06 (PERLANCAR)
+0.03    2016-01-06  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- Fix name of main package.
 
 
-0.02    2016-01-06 (PERLANCAR)
+0.02    2016-01-06  Released-By: PERLANCAR
 
         - No functional changes.
 
@@ -23,6 +23,6 @@
           modules that are only listed in scenario's 'modules' property.
 
 
-0.01    2016-01-06 (PERLANCAR)
+0.01    2016-01-06  Released-By: PERLANCAR
 
         - First release.
